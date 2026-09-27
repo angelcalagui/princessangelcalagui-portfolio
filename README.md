@@ -38,7 +38,7 @@ Instagram: [@princessangelcalagui](https://www.instagram.com/princessangelcalagu
 
 ⭐ If you find this project interesting, feel free to explore the repository and check out the live portfolio.
 
-[Princess Angel Calagui](https://princessangelcalagui.vercel.app/)
+🌐 [Princess Angel Calagui](https://princessangelcalagui.vercel.app/)
 
 Built with curiosity, engineering, and code. ⚡💻
 
